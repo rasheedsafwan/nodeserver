@@ -1,0 +1,16 @@
+{
+  "name": "return",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start":"node ./index.js",
+    "test": "return"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
