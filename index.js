@@ -53,5 +53,5 @@ app.post('/', function (req, res) {
   res.send('POST,future work: connect with database and CREATE data')  
 })
 app.listen(port, () => {
-  console.log(`Example app listening at http://localhost:${port}`)
+  console.log(`node server app listening at http://localhost:${port}`)
 })
