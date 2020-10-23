@@ -1,7 +1,7 @@
 const { response } = require('express')
 const express = require('express')
 const app = express()
-const port = 443
+const port = 80
 
 app.get('/', function (req, res)  {
   res.send('GET,future work: connect with database and READ data')
